@@ -1,0 +1,30 @@
+version: '2'
+
+services:
+
+  postgres:
+    build:
+      context: .
+      dockerfile: postgres-dockerfile
+    environment:
+      - POSTGRES_PASSWORD=postgresPASS
+      - POSTGRES_USER=initdb
+      - POSTGRES_DATABASE=initdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - "/var/lib/postgresql/data"
+    restart: always
+
+  bamboo:
+    build:
+      context: .
+      dockerfile: bamboo-dockerfile
+    links:
+      - postgres
+    ports:
+      - "8085:8085"
+    volumes:
+      - "/usr/src/bamboo"
+      - "/usr/src/bamboo-home"
+    restart: always

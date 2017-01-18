@@ -1,0 +1,14 @@
+   #Creating images from Postgress db server
+FROM postgres
+
+   #Environment variables
+ENV POSTGRES_PASSWORD=postgresPASS \
+    POSTGRES_USER=initdb \
+    POSTGRES_DATABASE=initdb
+
+   #Port
+EXPOSE 5432
+
+   #Setting volume directory
+VOLUME /var/lib/postgresql/data
+RUN chmod -R 777 /var/lib/postgresql/data

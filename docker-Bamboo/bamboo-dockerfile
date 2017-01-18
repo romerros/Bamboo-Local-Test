@@ -1,0 +1,26 @@
+#Creating image from Java
+FROM java
+
+#Let's create directory for bamboo server
+RUN mkdir /usr/src/bamboo &&\
+    mkdir /usr/src/bamboo-home &&\
+    chmod -R 777 /usr/src/bamboo &&\
+    chmod -R 777 /usr/src/bamboo-home
+
+#Copying bamboo tar.gz package
+COPY ./atlassian-bamboo-5.14.3.1 /usr/src/bamboo
+
+#Specifying working directory
+WORKDIR /usr/src/bamboo
+
+#Copying bamboo's modified config file
+#COPY ./bamboo-init.properties /usr/src/bamboo/atlassian-bamboo/WEB-INF/classes/
+
+#Setting bamboo port
+EXPOSE 8085
+
+#Setting volume directory
+VOLUME /usr/src/bamboo-home /usr/src/bamboo
+
+#Bamboo needs to run command
+CMD ["bin/start-bamboo.sh", "-fg"]
