@@ -1,0 +1,114 @@
+aram [1:44 PM] 
+joined #ovip-moving-hosting, and invited @r_avetikyan, @haykavet
+
+aram [1:44 PM] 
+Razmiky vonc vor texavorvec, stex qnnarkenq project-i manramasnery
+
+[1:45]  
+https://www.official-vip.com
+official-VIP
+official-VIP
+VIP Tickets zu Premium Events bei official-VIP. VIP-Tickets für ✓ Fußball Bundesliga ✓ Champions League ✓ DFB ✓ Motorsport ✓ ▷ Jetzt online bestellen (32KB)
+
+[1:45]  
+hosta exac mi tex petqa texapoxel urish tex, baic ed lucumna xndri vory partadir chi vor chisht lucum lini
+
+[1:45]  
+isk xndiry performancna
+
+[1:46]  
+asum en dandaxa
+
+[1:49]  
+es hima naium em front ejy 1 varkianic qicha tevum bacely
+
+[1:49]  
+konkret html-i requesty
+
+[1:50]  
+https://developers.google.com/speed/pagespeed/insights/?url=www.official-vip.com&tab=desktop
+
+[1:50]  
+es mi reporta
+
+[1:50]  
+baci ed eli gorciqner kan (edited)
+
+[1:50]  
+meky es hishum em ed yslow-n er
+
+[1:51]  
+baic de sranq drsic en naium
+
+[1:51]  
+http://yslow.org/
+yslow.org
+YSlow - Official Open Source Project Website
+Official YSlow Open Source Project Website. YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
+
+[1:51]  
+@r_avetikyan jan hetevum es che?
+
+r_avetikyan [1:51 PM] 
+ayo ayo
+
+[1:52]  
+yes el em porprum official-VIP-@
+
+[1:52]  
+nkarner@ dandax a bacum
+
+aram [1:52 PM] 
+xndir hamar 1 haskanal inchy en chi
+
+[1:53]  
+xndir hamar 2 prioretizacnel
+hamar 3 lucumner gtnel u kirarel
+
+[1:53]  
+takic monitoringy indz dura galis vortev tenc en inch ogtagorcvuma eda erevum
+
+[1:53]  
+mi tarberak newrelicna kam tenc mi ban
+
+[1:54]  
+lucum@ ovip-i tak shopware-na, karoxa inqn el plugin unena
+
+[1:54]  
+arajarkum em @r_avetikyan research anes ardiunqnery qnnarkenq
+
+[1:55]  
+mi xndirn ena vor servery managed a u hamaria voch mi gorciq hasaneli chi
+
+[1:55]  
+harcn ena aranc texapoxelu urish server karanq inch vor ban setup anenq u monitoring sksenq
+
+r_avetikyan [1:57 PM] 
+Aram jan pordzem haskanal inchnuma xndir@, qo gracic shat baner anhaskanali en im hamar der
+
+aram [2:10 PM] 
+ok
+
+r_avetikyan [2:31 PM] 
+lav, haskaca. sranq ereqn el site-i analizatorner en. skszbic chhaskaca, hima parza
+
+[2:32]  
+srancov analiz anem, miguce eli gorciqner gtnven, karevor@ haskanal inchum a dandaxutyan patchar@
+
+[2:33]  
+aysinqn qo tvarkac xndirneri lucum@ gtnel
+
+aram [2:47 PM] 
+analiz-i 2 dzev ka, drsic inch dzeri tak yngnuma (active), nersic monitoring-ov (passive, userneri requestneri analiz)
+
+[2:48]  
+newrelicy nersica u eli tarberakner petqa linen baic de vor hostingy managed a, menq full access chunenq karoxa chstacvi server-um dnel, petqa ed jamanak shopware-i mej inch vor ban texadrel, lav klini vor gorciq lini vor shopwarey support anuma
+
+r_avetikyan [2:52 PM] 
+OK Aram jan, pordzem parzel inch karelia anel.
+
+aram [2:53 PM] 
+ok, mi ban el, shopware@ kara iranov tenc ben unena, nenc vor artaqin gorciqi kariq el chlini, ed el knaies?
+
+r_avetikyan [3:11 PM] 
+Ok
